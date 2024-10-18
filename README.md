@@ -2,7 +2,10 @@
 
 ## Overview
 The Travel Companion is designed to enhance your travel experience by providing personalized travel lists, a dynamic chatbot for instant assistance, and a built-in translator for seamless communication. With powerful search functionality and real-time location data powered by the Google Maps API, planning your next adventure has never been easier.
+
 ![TC](https://i.ibb.co/LNX1Y9C/image.png)
+![tc-chat](https://i.ibb.co/qY5Kw7d/image.png)
+
 ## Features
 - **Personalized Travel Lists**: Create and manage customized travel itineraries based on your preferences and interests.
   
@@ -20,19 +23,19 @@ The Travel Companion is designed to enhance your travel experience by providing 
 To run the Travel Companion App locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+   ``` bash
    git clone <repository-url>
    cd travel-companion-app
    ```
 2. Install dependencies:
-  ```bash
+  ``` bash
   Copy code
   npm install
   ```
 3. Set up your Firebase project and configure the Firebase credentials in the app.
 
 4. Start the development server:
-  ```bash
+  ``` bash
   npm start
   ```
 5. Open your browser and navigate to ```http://localhost:3000``` to view the app.
