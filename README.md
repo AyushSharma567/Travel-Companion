@@ -13,6 +13,7 @@ The Travel Companion is designed to enhance your travel experience by providing 
 - **Translator**: Communicate effortlessly in different languages with the integrated translator feature.
 - **Powerful Search Functionality**: Discover attractions, accommodations, and activities with advanced search options.
 - **Real-Time Location Data**: Utilize Google Maps API to get live location updates, directions, and navigation assistance.
+  video demo [video](https://drive.google.com/file/d/1xX7My8Wcy5wWQTj7InD-GXhPW6GTas01/view?usp=sharing)
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, ReactJS, JavaScript
@@ -29,7 +30,6 @@ To run the Travel Companion App locally, follow these steps:
    ```
 2. Install dependencies:
   ``` bash
-  Copy code
   npm install
   ```
 3. Set up your Firebase project and configure the Firebase credentials in the app.
