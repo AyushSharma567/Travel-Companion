@@ -26,8 +26,8 @@ To run the Travel Companion App locally, follow these steps:
 
 1. Clone the repository:
    ``` bash
-   git clone <repository-url>
-   cd travel-companion-app
+   git clone <https://github.com/AyushSharma567/Travel-Companion.git>
+   cd Travel-Companion
    ```
 2. Install dependencies:
   ``` bash
